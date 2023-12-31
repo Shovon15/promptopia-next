@@ -1,6 +1,6 @@
 // import Feed from "@components/Feed";
 
-import Feed from "@components/feed";
+import Feed from "@components/Feed";
 
 const Home = () => (
 	<section className="w-full flex-center flex-col">
